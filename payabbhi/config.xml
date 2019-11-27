@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>payabbhi</name>
+    <displayName><![CDATA[Payabbhi]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Prestashop module for accepting payments with Payabbhi.]]></description>
+    <author><![CDATA[Payabbhi Team]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
